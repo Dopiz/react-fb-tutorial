@@ -137,7 +137,7 @@ class Game extends React.Component {
     if (!this.state.ascendingOrder) {
       moves.reverse()
     }
-    console.log(this.state.stepNumber)
+
     let status = winner ? 'The winner is ' + winner.flag : this.state.stepNumber === 9 ? 'Draw' : 'Next player: ' + (this.state.xIsNext ? "X" : "O");
 
     return (
@@ -152,7 +152,6 @@ class Game extends React.Component {
         <div className="game-info">
           <div>{status}</div>
           <ol>{moves}</ol>
-          {/* <button onClick={() => this.toggleOrder()}>Change Order</button> */}
         </div>
         <div className="other">
           <ToggleButton
