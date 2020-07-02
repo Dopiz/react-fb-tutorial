@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-fb-tutorial/static/css/main.a4bd9c8d.chunk.css",
+    "main.js": "/react-fb-tutorial/static/js/main.0279ad68.chunk.js",
+    "main.js.map": "/react-fb-tutorial/static/js/main.0279ad68.chunk.js.map",
+    "runtime-main.js": "/react-fb-tutorial/static/js/runtime-main.485c06bd.js",
+    "runtime-main.js.map": "/react-fb-tutorial/static/js/runtime-main.485c06bd.js.map",
+    "static/js/2.a2c56392.chunk.js": "/react-fb-tutorial/static/js/2.a2c56392.chunk.js",
+    "static/js/2.a2c56392.chunk.js.map": "/react-fb-tutorial/static/js/2.a2c56392.chunk.js.map",
+    "index.html": "/react-fb-tutorial/index.html",
+    "precache-manifest.a3ec37dde7c06834332597549375459a.js": "/react-fb-tutorial/precache-manifest.a3ec37dde7c06834332597549375459a.js",
+    "service-worker.js": "/react-fb-tutorial/service-worker.js",
+    "static/css/main.a4bd9c8d.chunk.css.map": "/react-fb-tutorial/static/css/main.a4bd9c8d.chunk.css.map",
+    "static/js/2.a2c56392.chunk.js.LICENSE.txt": "/react-fb-tutorial/static/js/2.a2c56392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.485c06bd.js",
+    "static/js/2.a2c56392.chunk.js",
+    "static/css/main.a4bd9c8d.chunk.css",
+    "static/js/main.0279ad68.chunk.js"
+  ]
+}
